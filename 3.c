@@ -12,6 +12,7 @@ void naturalNum(int n)
 int main()
 {
     int n;
+    printf("Hello World");
     printf("Enter the value: ");
     scanf("%d",&n);
     naturalNum(n);
